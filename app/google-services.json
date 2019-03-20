@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780369151967",
+    "firebase_url": "https://yefapp-41.firebaseio.com",
+    "project_id": "yefapp-41",
+    "storage_bucket": "yefapp-41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780369151967:android:7860813cc00ef121",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.yefapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780369151967-i74kluv0qk96jn5gq6a1bee4qp6a2slf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi190Sn1GFFWnfUCwyNYOOvx-yS9jU-_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
