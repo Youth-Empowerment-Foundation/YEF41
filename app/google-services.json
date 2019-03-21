@@ -36,6 +36,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780369151967:android:50f496b2c3234fd4",
+        "android_client_info": {
+          "package_name": "com.vk.yefapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780369151967-jbff4echsusspc6p75uth0hhcpo12kpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vk.yefapp",
+            "certificate_hash": "f5f7a15bcd7cc64a0e341d24ece671097dfb8417"
+          }
+        },
+        {
+          "client_id": "780369151967-i74kluv0qk96jn5gq6a1bee4qp6a2slf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi190Sn1GFFWnfUCwyNYOOvx-yS9jU-_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780369151967-i74kluv0qk96jn5gq6a1bee4qp6a2slf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

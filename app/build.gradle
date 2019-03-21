@@ -26,9 +26,10 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-        //Added a Firebase configuration file:
-            //google-services.json
-    implementation 'com.google.firebase:firebase-core:16.0.8'
+    //Added a Firebase configuration file:
+    //google-services.json
+    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+    implementation 'com.google.firebase:firebase-auth:16.1.0'
 }
-    // Google Play services Gradle plugin
+// Google Play services Gradle plugin
 apply plugin: 'com.google.gms.google-services'
